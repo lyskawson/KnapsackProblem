@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x3/3vhNEgRg=",
+  "dgSpecHash": "QPHMtZ/D1n4=",
   "success": true,
   "projectFilePath": "/Users/aleklyskawa/Desktop/javainet/KnapsackApp/KnapsackApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/aleklyskawa/.nuget/packages/mstest.analyzers/3.8.2/mstest.analyzers.3.8.2.nupkg.sha512",
+    "/Users/aleklyskawa/.nuget/packages/mstest.testframework/3.8.2/mstest.testframework.3.8.2.nupkg.sha512"
+  ],
   "logs": []
 }
